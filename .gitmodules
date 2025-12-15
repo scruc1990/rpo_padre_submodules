@@ -1,3 +1,6 @@
 [submodule "hijo_1"]
 	path = hijo_1
 	url = https://github.com/scruc1990/rpo_hijo_1_submodules.git
+[submodule "hijo_2"]
+	path = hijo_2
+	url = https://github.com/Nest-ms-fh/rpo_hijo_2_fork_submodules.git
